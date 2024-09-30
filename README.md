@@ -114,7 +114,10 @@ MONEY = 10652<br>
 <hr>
 <hr>
 <H3>OUTPUT</H3>
-![image](https://github.com/user-attachments/assets/4ff6079e-39c4-4a6d-9512-81d1b40490e9)
+
+![image](https://github.com/user-attachments/assets/b1a899dc-7352-4fe6-af16-edb0375ae1d0)
+
+
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
